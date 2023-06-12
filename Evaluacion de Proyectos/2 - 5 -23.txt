@@ -1,0 +1,25 @@
+La prefactibilidad 
+
+Es un analisis prelimiar de una idea de proyecto para determinar si es viable. Si es asi se pasa a un segundo analisis de factibilidad.
+
+Se debe contar con una estructura formada por
+- Estudio de mercado, clientes y competencia
+- Estudio financiero, para esatblecer dinero y gasto
+- Estudio tecnologico, incluyendo las inversiones a realizar
+- Estudio administrativo, organizacion del negocio
+- Estudio de impacto medio ambiental
+- Suministros Necesarios
+
+Las conclusiones del analisis pueden dar como resultado
+* Reformular el proyecto
+* Postergar
+* Abandonar la idea inviable
+* Seguir adelante realizando el estudio de factibilidad 
+
+Estudio de Factibilidad
+Este estudio profundiza el anterior y nos permite 
+= Determinar en forma plena para la definicion del tamaño, ubicacion de instalaciones y tecnologia elegida.
+= Diseño de modelo administrativo adecuado
+= Estimacion del nivel de inversiones, costos e ingresos
+= Conocimiento de las fuentes de financiamiento
+= Someter el proyecto a aprobacion de autoridades de planeamiento ambiental (si es necesario)

@@ -1,0 +1,10 @@
+una compañia de seguros por accidente de $210k si no aceptamos la oferta y decidimos ir a juicio podemos obtener $185k, $415k o $580k, dependiendo de las alegaciones que el juez considere aceptables, si perdemos el juicio, debemos pagar los costos que ascienden a $30k, sabiendo que el 70% de los juicios se ganan, el 50% de eso se obtiene la menor indemnizacion, en el 30% la intermedia, y en el 20% la mas alta la opcion mas aceptable 
+
+una fabrica esta evaluada en 150M, la fabrica desea incorporar un producto nuevo al mercado, existen 3 estrategias para incorporar el nuevo producto:
+- Alternativa 1: hacer un estudio de mercado del producto de forma de determinar si se introduce o no al mercado.
+
+- Alternativa 2: introducir inmediatamente el producto al mercado (sin estudios) 
+
+- Alternativa 3: no lanzar inmediatamente el producto al mercado (sin estudios)
+
+En ausencia de estudios del mercado la fabrica estima que el producto tiene un 55% de posibilidades de ser exitoso y de 45% de ser un fracaso. Si el producto es exitoso la fabrica aumentaria en 300M su valor, si el producto fracasa se devaluaria en 100M. El estudio de mercado vale 30M, este predice que existe un 60% de probabilidades de que el producto sea existoso. El estudio determina que el producto al ser exitoso existe un 85% de posibilidades de que efectivamente lo sea, el mismo estudio determina que si el producto fracasa existe solo un 10% de que el producto sea exitoso. Si la empresa desea maximizar el valor esperado de la empresa que estrategia deberia seguir?

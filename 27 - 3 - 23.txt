@@ -1,0 +1,23 @@
+Modelos y Sistemas
+x-----------------x
+
+Recursos Humanos
+Son el conjunto de aquellas personas q colaboran en una empresa en diferentes areas y departamentos, gracias a su funcion
+de habilidades las organizaciones pueden lograrsus objetivos de negocio, ya que ellos son el principal recurso. Estas 
+personas forman parte de los recursos tangibles, su talento, conocimiento y experiencia son elementos intangibles 
+que permiten realizar las operaciones cotidianas a las que fueron designadas.
+La jerarquia de una empresa hace referencia a la organizacion y distribucion de los empleados de esta segun su estatus y su funcion. Esta estructura sirve para dividir la autoridad, podemos decir que es una estructura piramidal, situando a los empleados y al jefe en la cuspide.
+Definir la jerarquia de una empresa tiene multiples ventajas, el primer lugar permite crear una cadena de mando q conecta los referentes niveles de gestion interna, ademas facilita la toma de decisiones
+
+Evidentemente el personal depende de la empresa en si, segun el rubro a la que pertenezca su estructura departamental no van a ser iguales, p.ej la estructura de los deptos dedicada a informatica (Hw) no va a ser igual a las q se dedican a la creacion de software.
+
+En el ultimo caso puede haber los siguientes profesionales :
+A| Directivo; Desde el presidente de la empresa al gerente de produccion, todos ellos son encargados de la gestion de la empresa. No tienen porque tener conocimientos informaticos y si de gestion empresarial, su labor es cordinar todos los recursos necesarios para q funcione correctamente
+
+B| Analista de Sistemas; Responsable del proyecto y director de las fases de desarrollo. Tiene conocimientos avanzados de programacion, analisis, diseño y ademas habilidades comunicativas, es el encargado de realizar las entrevistas durante la fase de analisis
+
+C| Analistas programadores; Se trata de los profesionales q realizan la fase de diseño, tiene conocimientos avanzados de programacion pero fundamentalmente realizan las fases de analisis y diseño a las ordenes de los anteriores.
+
+D| Programadores: Se trata de los profesionales encargados de realizar la fase de implementacion a apartir de los diseños   de los analistas.
+
+E| Especialistas: Se trata de profesionales conocedores de software y hardware importante en el proceso de desarollo pero muy especifico, entre ellos estan: Administradores de BD | Administradores de Red | Programadores de Sistemas (Mantemiento OS y Sw de la app)

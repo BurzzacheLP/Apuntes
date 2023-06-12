@@ -1,0 +1,36 @@
+Ventajas de un arbol de decision
+
+unos de los aspectos mas utiles es q te obligan a considerarn tantos resultados posibles de una decisiom teniendo en cuenta la gama de consecuencias de cada una de ellas. En algunos casos, incluso puede ayudarte en situaciones esperadas de la decision, p.ej si creas estimaciones en dolares de valor de todos los resultados y las probabilidades asociadas en cada resultado, puedes utilizar estos numeros para calcular que la decision inicial dara lugar a la mayor rentabilidad. Los arboles de decision proporcionaran un marco para considerar la probabilidad y los pagos de las decisiones, lo que ayudara a analizar una decision de tomar la mas informada posible
+
+a. Plantean el problema para que todas las opciones sean analizadas 
+b. Permiten analizar totalmente las posibles consecuencias 
+c. Proveen un esquema para cuantificar el costo de un resultado y la probabilidad de que suceda 
+d. ayuda a realizar las mejores decisiones sobre la base de la informacion existente y de las mejores suposiciones.
+
+x-x-x-x-x-x-x
+
+Desventajas
+
+Un inconveniente de la optimizicacion de los arboles es que los resultados y las decisiones posteriores se basaran fundamentalmente en las espectativas. 
+Cuando las decisiones se hacen reales, los beneficios y las decisiones resultantes podrian no ser las mismas que planeamos.
+
+holaescriboyo tomsas:
+Podría ser imposible planificar para toda las contingencias que pueden surgir como consecuencia de una decisión. Esto puede conducir a una mala decisión. Además, los eventos inesperados pueden alterar las decisiones y cambiar los resultados. Por ejemplou: coma si la cuota del colegio ==== la mitad del monto para ir a la escuela pero más tarde descubrís que {la mama de mateo} se debe pagar la totalidad, los pagos esperados, seran diferentes de la realidad.
+
+A. Los resultados y las decisiones se basan fundamentalmente en las expectativas 
+B. Solo es recomendable para cuando el curso de acciones es pequeño y no son posibles todas las combinaciones 
+C. Las reglas de asignación son bastante sensibles a pequeñas perturbaciones en los datos dificultad para elegir largo opium/ un arbol optimo.
+
+d. o siguiente: ausencia de una función global de las variables y perdida de la representación.
+E(la ultima): los árboles de decisión requieren un gran número datos de los que muchas veces no se === (Difurcan teoría)
+
+TITULO: envio de paquetes (logistica) lomas, prov b s as
+      lomas
+>50 <
+      bs as 
+
+>10-<50
+
+>10
+
+1-10 --- 

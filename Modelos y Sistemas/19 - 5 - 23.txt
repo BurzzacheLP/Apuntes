@@ -1,0 +1,19 @@
+Arboles de decision
+
+es una forma de grafica y analitica de representar todos los eventos (sucesos que pueden surgir a partir de una decisison asumida).
+Nos ayuda a tomar una decision mas acertada desde un punto de vista probabilistico, ante algun abanico de posibles decisiones q permite desplegar visualmente un problema y organizar el trabajo de calculos que deben realizar. 
+
+Terminologias;
+Nodo de decision (cuadrado):
+indica que una decision se necesita en ese punto del proceso.
+Nodo de probabilidad (redondo):
+Indica que ocurre un evento aleatoriox en ese punto del proceso.
+Rama (linea):
+Indica que se puede emprender cuando tomamos una decision o bien ocurre un evento aleatorio. 
+
+Pasos para el analisis de A de D
+1. Definir el problema
+2. Dibujar el arbol
+3. Asignar probabilidades a los eventos aleatorios
+4. Estimar los resultados para cada combinacion psoibles alternativas
+5. Resolver el problema determinando solucion la ruta que proporciona un resultado optimo
