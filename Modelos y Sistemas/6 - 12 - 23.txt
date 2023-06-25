@@ -1,0 +1,21 @@
+Tablas de Decision
+
+tabla de decision conocida como tabla de verdad es una representacion grafica de una matriz de filas separada en 4 cuadrantes que indican condiciones y acciones. Las reglas de decision incluidas en una tabla de decision establecen el procedimiento a seguir cuando existen ciertas condiciones. se utiliza la tabla de decision cuando existe mucha combinacion. Las tablas son una tecnica milenaria de aplicacion en analisis y diseño de sistemas y procedimientos, en su documentacion y tambien como un medio de comunicacion y un instrumento de programacion.
+
+
+Estructura de la tabla de decision
+- Integrada por 4 secciones
+1. Identificacion de condiciones:
+Señala aquellas que son mas relevantes. Se detalla una condicion por renglon. Se llaman condiciones a situaciones variables que pueden ocurrir
+
+2. Entrada de Condiciones:
+Indica que valor, si es que lo hay, se debe asociar para una determinada condicion. Se indican valores de las condiciones indicadas en la primera seccion, Dependiendo del tipo de tabla de decision (De entrada limitada o extendida) que se construya para representar el proceso. 
+
+3. Identificacion de Acciones:
+Enlista el conjunto de todos los pasos que se deben seguir cuando se presenta cierta condicion. 
+Se llaman acciones a los distintos comportamientos que se asumiran en funcion de los valores que tomen las condiciones. Se escriben en orden de ejecucion.
+
+4. Entrada de Acciones:
+Muestran las acciones especificas del conjunto que deben emprender cuando ciertas condiciones o combinaciones de estas son verdaderas. 
+Las columnas del lado derecho enlazan condiciones y acciones, forman reglas de decision que establecen las condiciones que deben satisfacerce para emprender un determinado conjunto de acciones
+
