@@ -1,0 +1,7 @@
+Tipos de tablas de decision:
+1) Tabla de decision binaria: cuando todas las condiciones son binarias, es decir la evaluacion de todas las condiciones esta limitada a dos valores posibles. Tambien se denomina limitada.
+Los valores generales seran si (S), no (N), aunque pueden tomar otros valores, por ejemplo blanco (B) o negro (N).
+
+2) Tabla de decision multiple: Cuando todas sus condiciones pueden tomar mas de dos valores. Tambien se denomina ampliadas o extendidas.
+
+3) Tablas de decision mixta: son aquellas en las q intervienen condiciones binarias y multiples. Se combinan las formas de los valores de las dos tablas anteriores, considerando los valores de las condiciones en forma de entrada extendida e iedntificando las acciones en forma de entrada limitada o viceversa 

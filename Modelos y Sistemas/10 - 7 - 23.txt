@@ -1,0 +1,4 @@
+Determinar las regl
+Existen 2 reglas
+A)
+B) Comenzar con la primera condicion, dividir el numero de columnas por el numero de alternativas de cada condicion y asi sucesivamente por las demas condiciones. ejemplo: la siguiente tabla presenta 8 columnas, cada una puede tener las alternativas SI/NO,  

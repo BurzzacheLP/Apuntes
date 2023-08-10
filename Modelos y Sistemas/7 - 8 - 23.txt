@@ -1,0 +1,18 @@
+una asignatura universitaria se estructura en 4 modos: 
+* teoria, * problemas, * practicas de laboratorio.
+A El alumno que no hay aprobado la teoria no se puede presentar a problemas.
+B Si un alumno aprueba teoria se le guardara la nota durante ese curso y el siguiente 
+C Si un alumno suspende un solo modulo se le citara en despacho antes de evaluarlo
+
+_______________________________________________________________________________________________________________________
+|________________________1_____2_____3_____4_____5_____6_____7_____8_____9____10____11____12____13____14____15____16__|
+|Aprueba teoria       |  S  |  S  |  S  |  S  |  N  |  N  |  S  |  S  |  S  |  N  |  N  |  N  |  S  |  N  |  N  |  N  |
+|Aprueba pproblemas   |  S  |  S  |  S  |  N  |  S  |  N  |  N  |  S  |  N  |  S  |  S  |  N  |  N  |  S  |  N  |  N  |
+|Aprueba pract lab    |  S  |  S  |  N  |  S  |  S  |  S  |  N  |  N  |  S  |  N  |  S  |  N  |  N  |  N  |  S  |  N  |
+|Aprueba pract Camp   |  S  |  N  |  S  |  S  |  S  |  S  |  S  |  N  |  N  |  S  |  N  |  S  |  N  |  N  |  N  |  N  |
+|Imposible            |     |     |     |     |  X  |  X  |     |     |     |  X  |  X  |  X  |     |  X  |  X  |  X  |
+|Guardar nota teoria  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+|Citar en desp        |     |  X  |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |
+|Calcular nota        |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+|Suspender            |     |     |     |     |     |     |  X  |  X  |  X  |     |     |     |     |     |     |     |
+|_____________________|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|__X__|_____|_____|_____|__X__|

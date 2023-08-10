@@ -1,0 +1,31 @@
+Tabla de decision - Ejemplo
+se quiere determinar el importe a facturar a los clientes de unos grandes almacenes segun estos criterios;
+1 - Tarjeta Oro -> 15% Descuento
+2 - Tarjeta Club -> 5% Descuento
+3 - Tarjeta Oro/Club "Joven" -> 5% Descuento
+Los descuentos son acumulables
+
+_________________________1_____2_____3_____4_____5_____6_____7_____8___
+Pago Tarjeta oro      |  S  |  S  |  S  |  N  |  N  |  S  |  N  |  N  |
+Pago tarjeta club     |  S  |  S  |  N  |  S  |  N  |  N  |  S  |  N  |
+Pago modalidad joven  |__S__|__N__|__S__|__S__|__S__|__N__|__N__|__N__|
+Inviable              |  X  |  X  |     |     |  X  |     |     |     |
+Descuento 15 (oro)    |     |     |  X  |     |     |  X  |     |     |
+Descuento 5 (club)    |     |     |     |  X  |     |     |  X  |     |
+Descuento 5 (joven)   |     |     |  X  |  X  |     |     |     |     |
+Calcular Importe______|_____|_____|__X__|__X__|_____|__X__|__X__|__X__|
+
+Se quiere determinar la nomina de los empleados de una empresa segun estos criterios:
+1 - Si el empleado es altamente productivo tendra un premio por productividad
+2 - Segun si el empleado es encargado de su grupo tendra un plus por encargado
+3 - Si el empleado ha cometido una infraccion grave durante ese mes le sera eliminado cuaquier plus
+
+_________________________1_____2_____3_____4_____5_____6_____7_____8___
+                      |     |     |     |     |     |     |     |     |
+                      |     |     |     |     |     |     |     |     |
+                      |     |     |     |     |     |     |     |     |
+                      |     |     |     |     |     |     |     |     |
+                      |     |     |     |     |     |     |     |     |
+                      |     |     |     |     |     |     |     |     |
+                      |     |     |     |     |     |     |     |     |
+______________________|_____|_____|_____|_____|_____|_____|_____|_____|
