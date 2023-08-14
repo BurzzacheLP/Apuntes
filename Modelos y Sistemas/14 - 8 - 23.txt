@@ -1,0 +1,28 @@
+Diagrama de Flujo de Datos ldel equipo de desarollo.
+
+Es una tecnica para reflejar los procesos que conforman el sistema de informacion. Permite representar graficamente los limites del sistema y la logica de los procesos, estableciendo que funciones hay que desarollar, ademas muestra el flujo o moviemientos de los datos a traves del sistema y sus transformaciones como resultado de la ejecuion de los procesos.
+
+Esta tecnica consiste en la descompocision sucesiva de dos procesos desde un nivel general, hasta llegar al nivel de desarollo necesario para reflejar toda la semantica que debe soportar el diagrama en estudio
+
+El DFD se compone de los siguientes elementos 
+{Grafico}
+- Entidad Externa: 
+Representa un ente ajeno al sistema que proporciona que recive informacion del mismo. Puede hacer referencia a departamentos, maquinas, recursos u otros sistemas. El estudio de las relaciones entre entidades externas  no forma parte del modelo. 
+Puede aparecer varias veces en un mismo diagrama, asi como los distintos niveles del dfd para mejorar la claridad del diagrama
+
+- Procesos:
+Representa una funcionalidad que tiene que llevar a cabo el sistema para transformar o manipular datos. El proceso debe ser capaz de generar los flujos de datos de salida a partir de los de entrada, mas una informacion constante o variable al proceso.
+El proceso nunca es el origen ni el final de los datos, puede transformar un flujo de datos de entrada en varios de salida y siempre es necesario como intermedio entre una entidad externa y un alamacen de datos 
+
+- Almacen de datos:
+Representa la informacion en reposo utilizada por el sistema independientemente del sistema de gestion de datos (Por ejemplo un fichero, una base de datos, un archivador, etc), Contienen informacion necesaria para la ejecucion del proceso.
+El almacen no puede crear, transformar o destruir datos, No puede estar comunicado con otro almacen o entidad externa y aparece por primera vez en aquel nivel en que dos o mas procesos acceden a el. 
+
+- Flujo de datos:
+Representa el movimiento de los datos y establece la comunicacion entre los componentes del diagrama.
+Un flujo de datos entre dos procesos solo es posible cuando la informacion es sincronica, es decir, el proceso destino comienza cuando el proceso origen finaliza su funcion. 
+Los flujos que comunican procesos con los almacenes pueden ser:
+* De consulta
+* De actualizacion 
+* Y De Dialogos (Consulta/Actualizacion)
+

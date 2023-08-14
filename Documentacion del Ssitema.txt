@@ -43,6 +43,8 @@ Las fundamentales en este caso serian la 1, la 4 y la 5
 - - Plan Contingencia | (Que hacer si ocurren dichos riesgos, Aspectos fundamentales: Plata y Tiempo, que va representado en el Gantt, se calculn todos juntos 
     y van al final del proyecto)
 - Metricas del Proyecto | (Estimaciones en cuanto a tiempo y plata P.ej cuanta plata se gasto en cada dia y tarea)
+- Paquetes
+- Diccionario de datos
 
 DIAGRAMAS
 
