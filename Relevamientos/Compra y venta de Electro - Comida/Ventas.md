@@ -1,10 +1,10 @@
-No efectuan ni envios ni pedidos.
+No efectúan ni envíos ni pedidos.
 
 Los tamaños de las ventas dependen del vendedor, de que tanto vendan ellos
 
 Se encargan solo de ventas al por mayor
 
-Donde estan guardados los articulos no interesa, se fija en el sistema
+Donde están guardados los articulos no interesa, se fija en el sistema
 
 Hay un sector que se encarga de las facturas
 

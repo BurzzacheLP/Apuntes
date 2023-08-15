@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"G. Compras","id":"5f408357de5fef70","x":-280,"y":-179,"width":163,"height":60},
+		{"type":"text","text":"G. Ventas","id":"8e0d7c28bd57632f","x":133,"y":-179,"width":147,"height":60},
+		{"type":"text","text":"Producto","id":"833587a5c9cf8354","x":-54,"y":-280,"width":125,"height":60},
+		{"type":"text","text":"Almacen","id":"59d651588179bafa","x":-117,"y":-100,"width":117,"height":60},
+		{"id":"f649ce088fc19c20","x":30,"y":-100,"width":130,"height":60,"type":"text","text":"Logistica"},
+		{"id":"329f5f215d75651d","x":-239,"y":-280,"width":122,"height":60,"type":"text","text":"Ingreso\n"},
+		{"id":"2cdd44157f88dceb","x":133,"y":-280,"width":107,"height":60,"type":"text","text":"Egreso"}
+	],
+	"edges":[
+		{"id":"6c35fcdd4346a5cd","fromNode":"833587a5c9cf8354","fromSide":"bottom","toNode":"5f408357de5fef70","toSide":"right"},
+		{"id":"5783beed13094fb6","fromNode":"833587a5c9cf8354","fromSide":"bottom","toNode":"8e0d7c28bd57632f","toSide":"left"},
+		{"id":"c9c1f0b14f2672f2","fromNode":"833587a5c9cf8354","fromSide":"bottom","toNode":"59d651588179bafa","toSide":"top"},
+		{"id":"5582a22b76973a1b","fromNode":"833587a5c9cf8354","fromSide":"bottom","toNode":"f649ce088fc19c20","toSide":"top"},
+		{"id":"e9b6ece4ff365958","fromNode":"329f5f215d75651d","fromSide":"right","toNode":"833587a5c9cf8354","toSide":"left"},
+		{"id":"5015d66127438471","fromNode":"833587a5c9cf8354","fromSide":"right","toNode":"2cdd44157f88dceb","toSide":"left"}
+	]
+}
