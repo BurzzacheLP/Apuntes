@@ -1,6 +1,6 @@
 Alcances
 	1. ABM Vendedores
-	2. ABM Productos ?
+	2. ABM Productos | Incluyendo Precios
 	3. Registrar Factura / Remito (Registro Stock)
 	5. Ranking 10 Mejores vendedores
 	6. Ranking Pedidos

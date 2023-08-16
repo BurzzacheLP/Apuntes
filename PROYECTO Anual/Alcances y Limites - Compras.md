@@ -1,9 +1,8 @@
-**Ingreso de Producto (Compras)
-
 Alcances
 	1. ABM Proveedores
 	2. ABM Orden de compra Proveedor
 	3. ABM Productos 
+	4. Registro de compras | Incluyendo precio Compra
 		3.1 Max/Min stock y Reaporivicionamiento
 	4. Administracion y ABM SCRAP	
 	5. Control de Inventarios y Reportes
@@ -17,7 +16,6 @@ Limites
 	3. No administra cobranzas
 	4. No administra envios
 	5. No administra ubicacion del producto
-	6. No administra precio de Productos Compra/Venta
    
 **Aparte
 
