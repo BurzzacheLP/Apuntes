@@ -2,19 +2,18 @@ NOTA: Para version definitiva, Ordenar por orden de prioridad
 **Ingreso de Producto (Compras)
 
 Alcances
-	1. Registrar factura y/o Remito (Registro de Stock)
-	2. Administrar stock Producto (Modificar y mostrar)
-	3. Administrar Orden de Compra al proveedor
-	4. ABM de Productos (Alta baja Modificacion )
-	4.1 Administra Max y Min Productos -> Notas de Reaprovicionamiento 
-	5. Administra perfil de usuario de Logistica (Gestionar permisos, tipos de usuarios, etc)
-	6. ABM Proveedores
-	7. Control de Orden de Compra | Contra Factura
-	8. Administracion SCRAP (ABM) | Si viene del proveedor se rechaza, Si se rompe dentro se manda a SCRAP (El usuario comun da de alta, el Gerente lo modifica en caso de error de tipeo)
-	9. Gestion de Control de Inventarios (Reportes)
+	** 1. Registrar factura y/o Remito (Registro de Stock)
+	** 2. Administrar stock Producto (Modificar y mostrar)
+	** 3. Administrar Orden de Compra al proveedor
+	** 4. ABM de Productos (Alta baja Modificacion )
+	** 4.1 Administra Max y Min Productos -> Notas de Reaprovicionamiento 
+		** 5. Administra perfil de usuario de Logistica (Gestionar permisos, tipos de usuarios, etc)
+	** 6. ABM Proveedores
+	** 7. Control de Orden de Compra | Contra Factura
+	** 8. Administracion SCRAP (ABM) | Si viene del proveedor se rechaza, Si se rompe dentro se manda a SCRAP (El usuario comun da de alta, el Gerente lo modifica en caso de error de tipeo)
+	** 9. Gestion de Control de Inventarios (Reportes)
 		9.1 Reporte Producto
 		9.2 Reporte de Stock
-	10. 
 
 Limites
 	1. No manejara pagos de Facturas de Proveedor
